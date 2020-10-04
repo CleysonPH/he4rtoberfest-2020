@@ -1,22 +1,17 @@
-# Submissão de Exercicio
-
 **Exercicio:** 0 - Hello World
 
-**Nickname:** WxBarbosa
+**Nickname:** danielhe4rt
 
-**Nível Técnico:** Pleno
+**Nível Técnico:** - Estudante/Estagiário/Junior/Pleno/Senior -
 
-**Twitter**: 
+**Twitter**: https://twitter.com/danielhe4rt (opcional)
 
-**Dificuldade de Resolução:** - Baixa
+**Dificuldade de Resolução:** - Baixa/Média/Alta -
 
-**Comentários:** Nesse desafio eu acredito que a maior dificuldade foi descobrir qual frase usar para maior impacto hehehe.
+**Comentários:** Nesse desafio eu achei que ... (Opcional)
 
 **Como rodar o desafio**: 
 
 Use o comando abaixo: 
 ```bash
-cd /challenges/0/javascript/WxBarbosa
-npm install
-node app.js
-```
+php helloworld.php argv1 argv2 argv3
