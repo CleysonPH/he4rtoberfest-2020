@@ -9,4 +9,4 @@ Para que o seu exercicio contabilizado e aprovado, você terá que seguir alguma
 
 Seu pull request passará pela aprovação da comunidade do Github antes de 
 
-Qualquer dúvida, você pode comentar nessa [issue](https://nsei.com) e um dos moderadores do evento irá te auxiliar!
+Qualquer dúvida, você pode comentar nessa [issue](https://github.com/he4rtlabs/he4rtoberfest-2020/issues/1) e um dos moderadores do evento irá te auxiliar!
